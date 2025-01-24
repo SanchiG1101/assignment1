@@ -1,0 +1,5 @@
+setup.py
+Topsis_sanchi_102203595.egg-info/PKG-INFO
+Topsis_sanchi_102203595.egg-info/SOURCES.txt
+Topsis_sanchi_102203595.egg-info/dependency_links.txt
+Topsis_sanchi_102203595.egg-info/top_level.txt
